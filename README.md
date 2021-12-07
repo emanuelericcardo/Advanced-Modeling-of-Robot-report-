@@ -1,4 +1,4 @@
-# Advanced-Modeling-of-Robot-report-
+# Advanced-Modeling-of-Robot
 Kinematics and Dynamics of a Biglide robot
 
 The geometric, kinematic and dynamic models of the Biglide robot were modeled in the MATLAB environment and compared to the results obtained with ADAMS. 
